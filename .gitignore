@@ -162,3 +162,7 @@ cython_debug/
 # VSCode files
 .vscode
 .vscode/
+
+# Pre-trained models folder
+models
+models/
