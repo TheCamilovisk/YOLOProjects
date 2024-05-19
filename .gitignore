@@ -166,3 +166,7 @@ cython_debug/
 # Pre-trained models folder
 models
 models/
+
+# Sample data
+data
+data/
